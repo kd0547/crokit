@@ -1,22 +1,22 @@
-# 🖊️ Crokit - 크로키 연습 도우미
+# 🖊 Crokit - 크로키 연습 도우미
 
 **Crokit**은 타이머 기반으로 이미지를 자동 전환해주는 크로키 연습용 데스크탑 프로그램입니다.  
 이미지를 불러와 원하는 시간 간격으로 자동 표시하며, GIF 프레임 보기 기능도 지원합니다.
 
 ---
 
-## 📩 피드백 참여 부탁드립니다!
+## 피드백 참여 부탁드립니다!
 
 프로그램을 사용해보신 후, 아래 설문지를 통해 피드백을 남겨주시면  
 더 나은 기능 개선과 정식 배포에 큰 도움이 됩니다 😊
 
-👉 **[Crokit 사용자 설문지 작성하기](https://forms.gle/your-survey-link)**
+👉 **[Crokit 사용자 설문지 작성하기](https://docs.google.com/forms/d/e/1FAIpQLSeyONgY9HWAnN0vvW3TUhI9g6tDKlDz0WSxeig9r4E45-LPhQ/viewform?usp=dialog)**
 
 ---
 
-## 📦 설치 방법
+## 설치 방법
 
-1. [Releases](https://github.com/사용자이름/저장소이름/releases) 탭으로 이동합니다.
+1. [Releases](https://github.com/kd0547/crokit/releases/tag/v1.0_Beta) 탭으로 이동합니다.
 2. 최신 버전에서 `crokit.zip` 파일을 다운로드합니다.
 3. 압축을 해제한 후 `crokit.exe`를 실행하세요.
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ 주요 기능
+## 주요 기능
 
 - 이미지 자동 전환 타이머 
 - GIF 파일 프레임 단위 분해 지원
@@ -33,14 +33,13 @@
 
 ---
 
-## 📁 실행 환경
+## 실행 환경
 
 - 운영체제: Windows 10 이상
-- .NET 8 런타임 필요 (포함되어 있다면 별도 설치 불필요)
 
 ---
 
-## 🔐 SmartScreen 해제 방법 (필요 시)
+## SmartScreen 해제 방법 (필요 시)
 
 1. `crokit.exe`를 더블 클릭합니다.
 2. SmartScreen 경고 창이 뜨면 `추가 정보` 클릭 후 **[실행]** 버튼을 누릅니다.
